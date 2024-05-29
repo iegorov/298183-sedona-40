@@ -1,4 +1,4 @@
-# Личный проект «Седона»
+# Личный проект [«Седона»](https://iegorov.github.io/298183-sedona-40/)
 
 * Студент: [Иван Егоров](https://up.htmlacademy.ru/htmlcss/40/user/298183).
 * Наставник: [Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
