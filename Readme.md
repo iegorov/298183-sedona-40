@@ -2,7 +2,7 @@
 
 * Студент: [Иван Егоров](https://up.htmlacademy.ru/htmlcss/40/user/298183)
 * Наставник: [Ирина Антипина](https://htmlacademy.ru/profile/id2108789)
-* Ссылка для просмотра: [«Седона»](https://iegorov.github.io/298183-sedona-40/)
+* Сайт: https://iegorov.github.io/298183-sedona-40/
 
 ---
 
