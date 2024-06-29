@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "stylelint": "stylelint '**/*.css'",
+    "stylelint:fix": "stylelint '**/*.css' --fix"
+  },
   "devDependencies": {
     "stylelint": "^14.16.1"
   }
